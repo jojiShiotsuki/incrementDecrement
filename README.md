@@ -25,6 +25,10 @@ A simple Vue.js application that allows users to increment and decrement a count
 - [Node.js](https://nodejs.org/en/) (v14+ recommended)
 - [Vue CLI](https://cli.vuejs.org/)
 
+## Built With
+- Vue.js - The progressive JavaScript framework.
+- Tailwind CSS - Utility-first CSS framework.
+
 ## Contact
 - Name: Joji Shiotsuki
 - Email: Shiotsuji0@gmail.com
