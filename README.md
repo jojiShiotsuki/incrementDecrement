@@ -8,10 +8,6 @@ A simple Vue.js application that allows users to increment and decrement a count
 - Decrement the counter by clicking the "-" button.
 - Display the current count in real-time.
 
-## Demo
-
-[Link to live demo](#) (replace with actual link)
-
 ## Screenshots
 
 ![Screenshot 1](#)  
