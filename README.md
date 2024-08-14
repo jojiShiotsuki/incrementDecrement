@@ -26,6 +26,6 @@ A simple Vue.js application that allows users to increment and decrement a count
 - [Vue CLI](https://cli.vuejs.org/)
 
 ## Contact
-Name: Joji Shiotsuki
-Email: Shiotsuji0@gmail.com
-GitHub: jojishiotsuki
+- Name: Joji Shiotsuki
+- Email: Shiotsuji0@gmail.com
+- GitHub: jojishiotsuki
