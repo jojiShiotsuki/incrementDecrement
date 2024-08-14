@@ -10,7 +10,7 @@ A simple Vue.js application that allows users to increment and decrement a count
 
 ## Screenshots
 
-![Screenshot 1](#)  
+![Screenshot 1](https://github.com/jojiShiotsuki/incrementDecrement/blob/main/incrementDecrement/incre1.png)  
 ![Screenshot 2](#)  
 *(Add screenshots of your app here)*
 
